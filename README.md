@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrancoisPJ
 - 👀 I’m interested in developpement, skateboard and network
 - 🌱 I’m currently learning python3 / Java / MySQL 
-- 💻 I want to know a lot of thing in new technology (it's so interesting🫡)
+- 💻 I want to know a lot of thing in new technology (it's so fascinating🫡)
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
