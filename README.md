@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrancoisPJ
-- 👀 I’m interested in developpement, IA and network
+- 👀 I’m interested in developpement, IA and embedded software
 - 🌱 I’m currently learning python3 / Java / MySQL / C / HTML5
 - 💻 I want to know a lot of thing in new technology (it's so fascinating🫡)
 <!---
